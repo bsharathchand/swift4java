@@ -11,6 +11,6 @@ For a high level overview of the swift constructs look here [Contents.swift](htt
 
 I will try adding more specific playgrounds as and when I explore more on this. 
 
-> &copy; for Simon Allardice for his beautifully articulated video of Swift Programming Essentials in [Lynda.com](http://www.lynda.com)
+> &copy; for Simon Allardice for his beautifully articulated video of Swift Programming Essentials in [Lynda.com](http://www.lynda.com/Swift-tutorials/Swift-Essential-Training/180105-2.html)
 
 Happy Coding...
